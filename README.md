@@ -2,13 +2,6 @@
 
 A playable tycoon-style simulation showing how **Context Engineering** and **NVIDIA AI Stack** optimizations behave on raw GPU hardware. 
 
----
-
-## 📖 Inspiration & Credits
-This project was inspired by Arnav Gupta's ([@championswimmer](https://github.com/championswimmer)) [datacenter-tycoon](https://github.com/championswimmer/datacenter-tycoon), translating classic server-rack leasing and SLA contracts into the domain of LLM context engineering, KV Cache reusability, and multi-agent pipeline orchestration.
-
----
-
 ## ⚡ The "Aha!" Gameplay Loop (Context Reusability)
 In the world of Generative AI, loading long documents (context) into GPU memory (VRAM) is expensive and slow. **NVIDIA TensorTycoon** teaches context reusability:
 

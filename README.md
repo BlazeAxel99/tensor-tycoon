@@ -1,4 +1,4 @@
-# NVIDIA TensorTycoon: GPU Context Optimizer
+# TensorTycoon: GPU Context Optimizer
 
 A playable tycoon-style simulation showing how **Context Engineering** and **NVIDIA AI Stack** optimizations behave on raw GPU hardware. 
 
@@ -61,7 +61,7 @@ The project is pre-configured with `gh-pages` and relative base path routing.
 
 1. Link your remote repository:
    ```bash
-   git remote add origin https://github.com/BlazeAxel99/nvidia-tensor-tycoon.git
+   git remote add origin https://github.com/BlazeAxel99/tensor-tycoon.git
    ```
 2. Build and push the branch:
    ```bash

@@ -152,7 +152,7 @@ export default function App() {
       <header className="panel" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px', padding: '16px 24px' }}>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           <h1 style={{ color: 'var(--nvidia-green)', margin: 0, fontSize: '24px', textShadow: '0 0 10px var(--nvidia-green-glow)' }}>
-            NVIDIA TENSORTYCOON
+            TENSORTYCOON
           </h1>
           <p style={{ color: 'var(--text-secondary)', margin: 0, fontSize: '13px' }}>
             GPU Context Optimizer Simulation
